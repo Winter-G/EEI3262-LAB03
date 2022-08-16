@@ -1,0 +1,12 @@
+public class Car {
+
+    String sModel;
+    Int noOfDoors;
+    Int noOfTyres;
+    String sColor; 
+
+  public void display 
+
+
+
+}
